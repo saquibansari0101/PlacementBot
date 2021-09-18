@@ -485,13 +485,13 @@ Find your Google Sheet ID in the URL: `https://docs.google.com/spreadsheets/d/{I
 After you seccusfully communicated with the bot, your chat ID should be in the recording spreadsheet entries. Copy and past this into the `adminID` variable in the script
 
 # Bot Preface 
-
-![Code](https://user-images.githubusercontent.com/84653921/133888491-e5f3c735-6702-4bce-a050-99bb127dec67.png)
 - Code of the bot
-![Telegram](https://user-images.githubusercontent.com/84653921/133888498-dcf84284-50d4-4bac-b14a-288af7b3f949.png)
+![Code](https://user-images.githubusercontent.com/84653921/133888491-e5f3c735-6702-4bce-a050-99bb127dec67.png)
 - Working of the bot
-![sheet](https://user-images.githubusercontent.com/84653921/133888502-db767664-7c75-4c5e-a926-54f73ffac0c1.png)
+![Telegram](https://user-images.githubusercontent.com/84653921/133888498-dcf84284-50d4-4bac-b14a-288af7b3f949.png)
 - Final Output of the bot
+![sheet](https://user-images.githubusercontent.com/84653921/133888502-db767664-7c75-4c5e-a926-54f73ffac0c1.png)
+
 
 
 🎄 Thanks 🎄
