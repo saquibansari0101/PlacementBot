@@ -97,7 +97,7 @@ This function contains information about the creators of the bot
 ```
 This Function contains information about all the commands we can use in bot
 
-- #### new sheet Not Admin Error Message Function 🎋
+- #### Message Strings Function 🎋
 
 
 ```bash
